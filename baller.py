@@ -33,6 +33,7 @@ if ngrorok == 'no':
     pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
     pywhatkit.playonyt("Rick Astley - never gonna give you up ")
     pywhatkit.playonyt("Error Meme template - windows xp ")
+    pywhatkit.playonyt("You are an idoit, hahahahah ")
 
 if ngrorok == 'yes':
     print("GOOD :) , TAKE THIS !")

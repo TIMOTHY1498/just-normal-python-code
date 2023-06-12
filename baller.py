@@ -5,15 +5,17 @@
 # actualy the real one
 
 import time
-import pywhatkit
+import pywhatkit    
 
 print("Do u like me???")
 ngrorok = input(">>> ")
 
 if ngrorok == 'no':
-    print("TELEPORTING.")
-    print("TELEPORTING..")
-    print("TELEPORTING...")
+    print("Crashing.")
+    time.sleep(5)
+    print("Destroying.. Its too late bruh")
+    time.sleep(1.5)
+    print("Crashing... done")
     pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
     pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
     pywhatkit.playonyt("Rick Astley - never gonna give you up ")
@@ -33,9 +35,66 @@ if ngrorok == 'no':
     pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
     pywhatkit.playonyt("Rick Astley - never gonna give you up ")
     pywhatkit.playonyt("Error Meme template - windows xp ")
-    pywhatkit.playonyt("You are an idoit, hahahahah ")
 
-if ngrorok == 'yes':
+elif ngrorok == 'yes':
+    print("GOOD :) , TAKE THIS !")
+    x = input("Youtube query")
+    pywhatkit.playonyt(x)
+
+elif ngrorok == 'NO':
+    print("Crashing.")
+    print("Destroying..")
+    print("Crashing...")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(1.5)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(2)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(1.5)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+
+elif ngrorok == 'YES':
+    print("GOOD :) , TAKE THIS !")
+    x = input("Youtube query")
+    pywhatkit.playonyt(x)
+
+if ngrorok == 'No':
+    print("Crashing.")
+    print("Destroying..")
+    print("Crashing...")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(1.5)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(2)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+    time.sleep(1.5)
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("STOP POSTING ABOUT BALLER?!?!!? MEME TEMPLATE ")
+    pywhatkit.playonyt("Rick Astley - never gonna give you up ")
+    pywhatkit.playonyt("Error Meme template - windows xp ")
+
+elif ngrorok == 'Yes':
     print("GOOD :) , TAKE THIS !")
     x = input("Youtube query")
     pywhatkit.playonyt(x)
